@@ -6,7 +6,7 @@ The bot has been Dockerized and deployed on Azure. Next steps include:
 1. Improving the NLP by performing an ML analysis with other models, such as fbprophet and LSTMs
 2. Using ONNX to ensure model interoperability and optimize Azure hardware usage
 3. Adding additional microservices
-4. Creating an AKS (Kubernetes cluster) to better manage containers and scale the bot.
+4. Creating an AKS (Kubernetes cluster) to better manage containers and scale the bot.  
 The current event flow is shown below:
 ```mermaid
 sequenceDiagram
